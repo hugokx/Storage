@@ -1,0 +1,25 @@
+128 obsidian
+137 quartz block
+192 glass block
+6 droppers
+18 observers
+12 dispensers
+4 torch 
+4 red dust torch
+1 redstone dispenser
+1 redstone comparator
+3 levers
+1 sticky piston
+12 chests
+6 redstone dust
+2 powder snow bucket
+8 piston block
+1 water bucket
+1 smoot stone slab
+52 oak trap doors
+2 tridents (impaling V)
+1 sword (looting III)
+1 flint and steel
+1 lava bucket
+
+
